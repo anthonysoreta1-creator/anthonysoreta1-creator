@@ -11,5 +11,5 @@ Currently learning Python, C++, HTML, CSS & Java. 🎓
 ![Python](https://img.shields.io/badge/Python-40%25-1E4D2B)
 
 ## 🔗 Connect with me
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2C3E50)](https://your-portfolio-link-here)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1a3a5c)](https://www.facebook.com/anthony.soreta.50/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1A3C5E)](https://www.linkedin.com/in/anthony-soreta-2b803b393/)
