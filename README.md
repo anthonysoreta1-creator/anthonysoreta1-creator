@@ -1,16 +1,14 @@
 # Hi, I'm Anthony! 👋
-CS Student passionate about web development and software projects.
-Currently learning Python, C++, HTML, CSS & Java. 🎓
 
-## 🛠️ Tech Stack
+✦ Hello! My name is **Anthony** and I'm a **CS Student** from the **Philippines**.
+✦ Currently learning: **Python, C++, HTML, CSS & Java**
+✦ I enjoy building projects that solve real-life problems.
+✦ Stay curious, keep building, and never stop debugging life, one step at a time.
 
-![HTML](https://img.shields.io/badge/HTML-60%25-B7410E)
-![CSS](https://img.shields.io/badge/CSS-50%25-1B3A6B)
-![JavaScript](https://img.shields.io/badge/JavaScript-20%25-8B7000)
-![C++](https://img.shields.io/badge/C++-40%25-4A235A)
-![Python](https://img.shields.io/badge/Python-40%25-1E4D2B)
+---
 
-## 🔗 Connect with me
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1a3a5c)](https://www.facebook.com/anthony.soreta.50/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1A3C5E)](https://www.linkedin.com/in/anthony-soreta-2b803b393/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-6b2d3e)](https://www.instagram.com/tonnblablablablabla/)
+[![GitHub](https://img.shields.io/badge/GitHub-anthonysoreta1--creator-2d2d2d?style=flat-square&logo=github)](https://github.com/anthonysoreta1-creator)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony%20Soreta-4a6fa5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anthony-soreta-2b803b393/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1a3a5c?style=flat-square&logo=facebook)](https://www.facebook.com/share/14QXvAZsQDk/)
+[![Instagram](https://img.shields.io/badge/Instagram-tonnblablablablabla-6b2d3e?style=flat-square&logo=instagram)](https://www.instagram.com/tonnblablablablabla/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2C3E50?style=flat-square&logo=google-chrome)](https://your-portfolio-link-here)
