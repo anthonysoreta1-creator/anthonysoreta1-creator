@@ -1,8 +1,11 @@
 # Hi, I'm Anthony! 👋
 
 ✦ Hello! My name is **Anthony** and I'm a **CS Student** from the **Philippines**.
+
 ✦ Currently learning: **Python, C++, HTML, CSS & Java**
+
 ✦ I enjoy building projects that solve real-life problems.
+
 ✦ Stay curious, keep building, and never stop debugging life, one step at a time.
 
 ---
