@@ -4,7 +4,7 @@
 </div>
 ✦ Hello! My name is <b>Anthony</b> and I'm a <b>Computer Science Student</b> from the <b>Batangas State University - TNEU</b>.<br>
 ✦ Currently learning: <b>Python, C++, Java</b><br>
-✦ I enjoy playing guitar and turning ideas into code. <br>
+✦ I enjoy playing guitar and playing billiards <br>
 ✦ Keep strumming, keep coding, and never stop building — one commit at a time.
 
 ##
